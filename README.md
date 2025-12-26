@@ -1,6 +1,6 @@
 Phishing Simulation (Educational Purpose Only)
 
-IMPORTANT DISCLAIMER !
+##**IMPORTANT DISCLAIMER !**
 
 **This project is for EDUCATIONAL PURPOSES ONLY.** It demonstrates how phishing attacks work to help security professionals understand and defend against them. Using phishing techniques for malicious purposes is **illegal and unethical**.
 

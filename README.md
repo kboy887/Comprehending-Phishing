@@ -175,21 +175,21 @@ Open your browser and navigate to:
 ## Indicators of Phishing Attacks
 
 ### Email Indicators:
-- ✅ Suspicious sender address (e.g., `yourbank-security@gmail.com` instead of `@yourbank.com`)
-- ✅ Urgent language and deadlines
-- ✅ Generic greetings ("Dear Customer" instead of your name)
-- ✅ Mismatched URLs (hover over links to see actual destination)
-- ✅ Requests for sensitive information via email
-- ✅ Poor grammar/spelling (though modern attacks are sophisticated)
-- ✅ Unexpected attachments
+- Suspicious sender address (e.g., `yourbank-security@gmail.com` instead of `@yourbank.com`)
+-  Urgent language and deadlines
+-  Generic greetings ("Dear Customer" instead of your name)
+-  Mismatched URLs (hover over links to see actual destination)
+-  Requests for sensitive information via email
+-  Poor grammar/spelling (though modern attacks are sophisticated)
+-  Unexpected attachments
 
 ### Website Indicators:
-- ✅ URL doesn't match claimed organization
-- ✅ Missing or invalid SSL certificate
-- ✅ Unusual domain names or subdomains
-- ✅ Poor website design (though modern attacks look professional)
-- ✅ Requests for information the organization shouldn't need
-- ✅ No legitimate contact information
+-  URL doesn't match claimed organization
+-  Missing or invalid SSL certificate
+-  Unusual domain names or subdomains
+-  Poor website design (though modern attacks look professional)
+-  Requests for information the organization shouldn't need
+-  No legitimate contact information
 
 ## Testing and Analysis
 
@@ -212,13 +212,13 @@ Open your browser and navigate to:
 
 ## Legal and Ethical Considerations
 
-- ✅ **Only use in controlled, educational environments**
-- ✅ **Never target real individuals or organizations**
-- ✅ **Obtain proper authorization before testing**
-- ✅ **Follow responsible disclosure practices**
-- ✅ **Comply with local laws and regulations**
-- ❌ **Never use for malicious purposes**
-- ❌ **Never deploy against unauthorized targets**
+-  **Only use in controlled, educational environments**
+-  **Never target real individuals or organizations**
+-  **Obtain proper authorization before testing**
+-  **Follow responsible disclosure practices**
+-  **Comply with local laws and regulations**
+-  **Never use for malicious purposes**
+-  **Never deploy against unauthorized targets**
 
 ## Additional Resources
 
